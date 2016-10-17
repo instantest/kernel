@@ -1,2 +1,2 @@
-# Instantest: Kernel
+# Instantest Kernel
 Central data service
